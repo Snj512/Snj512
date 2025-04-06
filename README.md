@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **snehilanand512@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1V9D_QwGvMnK4n4OsHdaeM1s-m00nSph_/edit?usp=sharing&ouid=117992461018949259662&rtpof=true&sd=true](https://docs.google.com/document/d/1V9D_QwGvMnK4n4OsHdaeM1s-m00nSph_/edit?usp=sharing&ouid=117992461018949259662&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1V9D_QwGvMnK4n4OsHdaeM1s-m00nSph_/edit?usp=sharing&ouid=117992461018949259662&rtpof=true&sd=true]([https://docs.google.com/document/d/1V9D_QwGvMnK4n4OsHdaeM1s-m00nSph_/edit?usp=sharing&ouid=117992461018949259662&rtpof=true&sd=true](https://drive.google.com/file/d/1Y3aWn19k_jYibawAqOCYn28alJ1HtXUJ/view?usp=sharing))
 
 - ⚡ Fun fact **I'm medalist in Swimming, Basketball, Football**
 
