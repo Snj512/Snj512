@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snehil Anand</h1>
 <h3 align="center">Java Full Stack Developer | Data Analysis Enthusiast</h3>
 
-- 🔭 I’m currently working on [Banking Application for Co-Operative Society](https://github.com/Snj512/Tco-s)
+- 🔭 I’m a Explorer with Java at the core, exploring the infinite nebulas that orbit around it
 
 - 🌱 I’m currently learning **Spring Boot Framework, Big Data, Artificial Intelligence, and Ethics From University of California, Davis**
 
