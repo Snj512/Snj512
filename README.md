@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Explorer with Java at the core, exploring the infinite nebulas that orbit around it
 
-- 🌱 I’m currently learning **Spring Boot Framework, Big Data, Artificial Intelligence, and Ethics From University of California, Davis**
+- 🌱 I’m currently learning **Spring Boot Framework, Big Data**
 
 - 💬 Ask me about **Java, Kafka, Spring Boot, AWS Redshift,**
 
