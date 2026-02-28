@@ -5,12 +5,6 @@
 
 - 🌱 I’m currently learning **Spring Boot Framework, Big Data, Artificial Intelligence, and Ethics From University of California, Davis**
 
-- 👯 I’m looking to collaborate on **Dev-Ops/Spring Application**
-
-- 🤝 I’m looking for help with **Youtube | It Carrer**
-
-- 📝 I regularly write articles on [Java, Springboot , Data Analytics](Java, Springboot , Data Analytics)
-
 - 💬 Ask me about **Java, Kafka, Spring Boot, AWS Redshift,**
 
 - 📫 How to reach me **snehilanand512@gmail.com**
